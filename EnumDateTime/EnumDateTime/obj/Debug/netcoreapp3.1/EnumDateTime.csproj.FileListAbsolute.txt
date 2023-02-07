@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\bin\Debug\netcoreapp3.1\EnumDateTime.exe
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\bin\Debug\netcoreapp3.1\EnumDateTime.deps.json
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\bin\Debug\netcoreapp3.1\EnumDateTime.runtimeconfig.json
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\bin\Debug\netcoreapp3.1\EnumDateTime.runtimeconfig.dev.json
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\bin\Debug\netcoreapp3.1\EnumDateTime.dll
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\bin\Debug\netcoreapp3.1\EnumDateTime.pdb
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.AssemblyInfo.cs
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.dll
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.pdb
+C:\Users\faiqi\source\EnumDateTime\EnumDateTime\obj\Debug\netcoreapp3.1\EnumDateTime.genruntimeconfig.cache
